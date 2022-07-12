@@ -47,6 +47,7 @@
    <a href="#">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
    </a>
+<!--
    <a href="#">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html5" width="40" height="40"/>
    </a>
@@ -56,7 +57,6 @@
    <a href="#">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="es6" width="40" height="40"/>
    </a>
+-->
 </p>
-<br>
-
 [![Hiroki's github activity graph](https://activity-graph.herokuapp.com/graph?username=HirokiMorita&theme=github)](https://github.com/HirokiMorita)

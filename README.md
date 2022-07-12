@@ -13,6 +13,7 @@
 - 🔒 肉身在墙内
 - 🏔️ 假的北极代码贡献者
 - 💉 梦想是能被执行安乐死
+- 🏛️ 无政治立场
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HirokiMorita&show_icons=true&theme=dark"/>
 

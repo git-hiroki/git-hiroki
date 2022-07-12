@@ -10,4 +10,4 @@
 - 🏔️ 假的北极代码贡献者
 - 💉 梦想是能被安乐死
 
-![🈲Hiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirokimorita&show_icons=true&theme=radical&layout=compact)
+![Hiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirokimorita&show_icons=true&theme=radical&layout=compact)

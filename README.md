@@ -14,6 +14,8 @@
 - 🏔️ 假的北极代码贡献者
 - 💉 梦想是能被执行安乐死
 - 🏛️ 无政治立场
+- 🧪 信仰科学
+- ⛩️ MtoP神教教徒
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HirokiMorita&show_icons=true&theme=dark"/>
 

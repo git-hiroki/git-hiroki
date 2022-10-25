@@ -28,6 +28,7 @@
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
+<!--
 <p align="center">
    <a href="#">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="javascript" width="40" height="40"/>
@@ -51,5 +52,6 @@
       <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
    </a>
 </p>
+-->
 
 [![Hiroki's github activity graph](https://activity-graph.herokuapp.com/graph?username=HirokiMorita&theme=github)](https://github.com/HirokiMorita)

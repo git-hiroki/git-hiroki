@@ -54,4 +54,4 @@
 </p>
 -->
 
-[![Hiroki's github activity graph](https://activity-graph.herokuapp.com/graph?username=HirokiMorita&theme=github)](https://github.com/HirokiMorita)
+<img src=".github/github-user-contribution.svg" />

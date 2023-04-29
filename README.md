@@ -1,4 +1,4 @@
-<img align="right" src="https://profile-counter.glitch.me/HirokiMorita/count.svg"/>
+<img align="right" src="https://profile-counter.glitch.me/git-hiroki/count.svg"/>
 
 # Hi There 👋!
 

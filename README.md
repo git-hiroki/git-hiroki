@@ -17,7 +17,7 @@
 - 🧪 信仰科学
 - ⛩️ MtoP神教教徒
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HirokiMorita&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-hiroki&show_icons=true&theme=dark"/>
 
 ## 工作环境
 

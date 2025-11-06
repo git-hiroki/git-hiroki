@@ -1,5 +1,3 @@
-<img align="right" src="https://profile-counter.glitch.me/git-hiroki/count.svg"/>
-
 # Hi There 👋!
 
 ## 关于弘树 | About Hiroki
